@@ -17,3 +17,4 @@ Pastikan Python sudah terinstal di komputer Anda. Selain itu, aplikasi ini membu
 ```bash
 pip install gradio pdf2docx docx2pdf
 
+woi
