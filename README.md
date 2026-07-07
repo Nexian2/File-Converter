@@ -23,7 +23,7 @@ Aplikasi ini dibangun menggunakan Gradio sebagai antarmuka web, serta library pd
 Pastikan Python sudah terinstal di komputer Anda. Selain itu, aplikasi ini membutuhkan beberapa library tambahan yang bisa dipasang lewat pip
 
 ```bash
-pip install gradio pdf2docx docx2pdf
+pip install -r requirements.txt
 ```
 
 Dan habistuh tinggal masukin perintah
